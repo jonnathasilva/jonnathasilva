@@ -17,4 +17,4 @@
     <img aling="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div><br>
 
-apaxainodo por tecnologia, com vontate de cada vez mais aprender coisas novas.
+apaixonado por tecnologia, com vontate de cada vez mais aprender coisas novas.
